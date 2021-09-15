@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name SHT21)(type Legacy)(uri ${KIPRJMOD}/syms/SHT21.lib)(options "")(descr ""))
+  (lib (name mq-4)(type Legacy)(uri ${KIPRJMOD}/syms/mq-4.lib)(options "")(descr ""))
+  (lib (name mq-7)(type Legacy)(uri ${KIPRJMOD}/syms/mq-7.lib)(options "")(descr ""))
+  (lib (name si1132-a10-gm)(type Legacy)(uri ${KIPRJMOD}/syms/si1132-a10-gm.lib)(options "")(descr ""))
+)
